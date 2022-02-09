@@ -14,7 +14,7 @@ p{
     color: black;
 }
 
-#container{
+#container, #criteria {
     margin: 0 auto;
     text-align: center;
 }
